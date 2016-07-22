@@ -1,0 +1,13 @@
+body {
+  background-image: '../images/jeff.jpg';
+}
+
+#welcomebutton {
+  padding-top: 50px;
+}
+
+#no {
+  text-align: center;
+  font-size: 100px;
+  color: black;
+}
